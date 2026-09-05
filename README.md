@@ -33,7 +33,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 
 ⚙️ &nbsp;**Embedded and hardware** &nbsp;&nbsp; STM32 and AVR bare metal, VHDL on FPGA, real time control loops, driver and board bring up, Jetson platform commissioning
 
-🧠 &nbsp;**ML and vision** &nbsp;&nbsp; Temporal models, GPU accelerated object detection, deep learning deployed on Jetson and Raspberry Pi
+🧠 &nbsp;**ML and vision** &nbsp;&nbsp; Temporal models, YOLO object detection, GPU accelerated inference, deep learning deployed on Jetson and Raspberry Pi
 
 🖥️ &nbsp;**Interfaces** &nbsp;&nbsp; PyQt5 control and teaching applications, Blockly visual programming, JavaFX, web map services
 
@@ -53,7 +53,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 **ROS 2 Robotics Training Environment on the Hiwonder JetArm**
 - Commissioned and optimised a Jetson Orin Nano robotic platform running ROS 2 Humble, resolving software and hardware integration issues
 - Built a bidirectional digital twin with MoveIt 2, linking simulation and physical hardware
-- Implemented GPU accelerated machine vision for object detection and autonomous sorting
+- Implemented GPU accelerated machine vision with YOLO for object detection and autonomous sorting
 - Developed a PyQt5 control and teaching application with a Blockly interface for live robot programming
 
 </details>
@@ -75,6 +75,18 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 - Work spanning GNSS/RTK field robots, telemetry pipelines, LiDAR and point cloud processing, and ML engineering
 
 </details>
+
+---
+
+## 🔭 Featured work
+
+### [airship_gust_response_prediction](https://github.com/SeniorX52/airship_gust_response_prediction)
+
+Learned motion prediction for an autonomous airship flying in gusty wind. A physics residual temporal convolutional network conditioned on a forecast gust signal, trained on a large simulated dataset generated in Gazebo with ROS 1, benchmarked against transformer and recurrent sequence baselines, and optimised to run in real time on embedded hardware. Bachelor's thesis at iFR, University of Stuttgart, heading to publication.
+
+`PyTorch` &nbsp; `ROS 1` &nbsp; `Gazebo` &nbsp; `Python` &nbsp; `Bayesian optimisation` &nbsp; `Embedded deployment`
+
+Also on GitHub: [Glove-For-Deaf](https://github.com/SeniorX52/Glove-For-Deaf), a gesture to speech wearable on ATmega32, and [Traffic-System-Basys3](https://github.com/SeniorX52/Traffic-System-Basys3), a smart traffic controller in VHDL on an FPGA.
 
 ---
 
@@ -101,6 +113,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
