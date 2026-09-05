@@ -114,18 +114,6 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 
 ---
 
-## 🔭 Featured work
-
-### [airship_gust_response_prediction](https://github.com/SeniorX52/airship_gust_response_prediction)
-
-Learned motion prediction for an autonomous airship flying in gusty wind. A physics residual temporal convolutional network conditioned on a forecast gust signal, trained on a large simulated dataset generated in Gazebo with ROS 1, benchmarked against transformer and recurrent sequence baselines, and optimised to run in real time on embedded hardware. Bachelor's thesis at iFR, University of Stuttgart, heading to publication.
-
-`PyTorch` &nbsp; `ROS 1` &nbsp; `Gazebo` &nbsp; `Python` &nbsp; `Bayesian optimisation` &nbsp; `Embedded deployment`
-
-Also on GitHub: [Glove-For-Deaf](https://github.com/SeniorX52/Glove-For-Deaf), a gesture to speech wearable on ATmega32, and [Traffic-System-Basys3](https://github.com/SeniorX52/Traffic-System-Basys3), a smart traffic controller in VHDL on an FPGA.
-
----
-
 ## 🧰 Toolbox
 
 **Languages**
