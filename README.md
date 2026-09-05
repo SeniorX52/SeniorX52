@@ -21,7 +21,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 🛩️ &nbsp;Bachelor's thesis at the **Institute of Flight Mechanics and Controls (iFR), University of Stuttgart**, Flight Robotics and Perception Group<br>
 🏭 &nbsp;Working Student in **R&D at Lucas-Nülle GmbH**, drone simulation and robotics education<br>
 💼 &nbsp;**Top Rated** freelance engineer, 100% job success<br>
-📍 &nbsp;Cairo, Egypt
+📍 &nbsp;Cairo, Egypt 🇪🇬
 
 ---
 
@@ -41,8 +41,8 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 
 ## 💼 Experience
 
-<details open>
-<summary><b>Lucas-Nülle GmbH</b> &nbsp;·&nbsp; Robotics & AI Working Student, R&D &nbsp;·&nbsp; Kerpen, Germany &nbsp;·&nbsp; 2026</summary>
+<details>
+<summary>🇩🇪 &nbsp;<b>Lucas-Nülle GmbH</b> &nbsp;·&nbsp; Robotics & AI Working Student, R&D &nbsp;·&nbsp; Kerpen, Germany &nbsp;·&nbsp; 2026</summary>
 
 **Flight Simulation Environment for the PanelTrain Drone Training System**
 - Built a software in the loop simulation environment on the original ArduPilot firmware, keeping compatibility with the same autopilot and ground control infrastructure used in real flight operations
@@ -59,7 +59,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 </details>
 
 <details>
-<summary><b>University of Stuttgart, iFR</b> &nbsp;·&nbsp; Bachelor's thesis, Flight Robotics and Perception Group &nbsp;·&nbsp; 2026</summary>
+<summary>🇩🇪 &nbsp;<b>University of Stuttgart, iFR</b> &nbsp;·&nbsp; Bachelor's thesis, Flight Robotics and Perception Group &nbsp;·&nbsp; 2026</summary>
 
 - Physics informed neural motion predictor for an autonomous airship, built on ROS 1 and Gazebo
 - Large scale simulation data pipeline across sampled vehicle and wind configurations
@@ -69,7 +69,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 </details>
 
 <details>
-<summary><b>Freelance</b> &nbsp;·&nbsp; Upwork Top Rated, 100% job success &nbsp;·&nbsp; 2025 to present</summary>
+<summary>🌍 &nbsp;<b>Freelance</b> &nbsp;·&nbsp; Upwork Top Rated, 100% job success &nbsp;·&nbsp; 2025 to present</summary>
 
 - Robotics, computer vision, sensor fusion and embedded contracts for international clients
 - Work spanning GNSS/RTK field robots, telemetry pipelines, LiDAR and point cloud processing, and ML engineering
@@ -77,7 +77,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 </details>
 
 <details>
-<summary><b>Valeo</b> &nbsp;·&nbsp; Embedded Software Engineer, internship &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2025</summary>
+<summary>🇪🇬 &nbsp;<b>Valeo</b> &nbsp;·&nbsp; Embedded Software Engineer, internship &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2025</summary>
 
 - Testing and validation of embedded systems, focused on real time software and hardware integration
 - Developed and executed test plans, and automated validation processes
@@ -87,7 +87,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 </details>
 
 <details>
-<summary><b>University of Stuttgart, IAS</b> &nbsp;·&nbsp; DAAD funded exchange workshop &nbsp;·&nbsp; Stuttgart, Germany &nbsp;·&nbsp; 2024</summary>
+<summary>🇩🇪 &nbsp;<b>University of Stuttgart, IAS</b> &nbsp;·&nbsp; DAAD funded exchange workshop &nbsp;·&nbsp; Stuttgart, Germany &nbsp;·&nbsp; 2024</summary>
 
 - Two week fully funded workshop on Cooperation of Heterogeneous Agents in Industrial Applications
 - Integrated three robotic platforms: TurtleBot 3, Unitree Go1 quadruped and Franka Emika Panda arm
@@ -97,7 +97,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 </details>
 
 <details>
-<summary><b>Multi-Robot Systems (MRS) Research Group</b> &nbsp;·&nbsp; Mechatronics Research Intern &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2024</summary>
+<summary>🇪🇬 &nbsp;<b>Multi-Robot Systems (MRS) Research Group</b> &nbsp;·&nbsp; Mechatronics Research Intern &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2024</summary>
 
 - Built a quadcopter on STM32 with PID control fusing gyroscope, accelerometer and barometer
 - Wireless control over UART, with a GUI for the RC controller
@@ -105,7 +105,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 </details>
 
 <details>
-<summary><b>German University in Cairo</b> &nbsp;·&nbsp; Junior Teaching Assistant &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2024</summary>
+<summary>🇪🇬 &nbsp;<b>German University in Cairo</b> &nbsp;·&nbsp; Junior Teaching Assistant &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2024</summary>
 
 - Ran lab sessions for CS3 students alongside the lead instructor
 - Supported students on coding tasks, debugging and course material, mainly in Java
@@ -162,9 +162,9 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 
 ## 🎓 Education and awards
 
-**University of Stuttgart** &nbsp;·&nbsp; Bachelor's thesis, Aerospace Engineering &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; Grade 1.0<br>
-**German University in Cairo** &nbsp;·&nbsp; BSc Mechatronics, Robotics and Automation &nbsp;·&nbsp; 2022 to 2027 &nbsp;·&nbsp; Ranked 3rd by cumulative GPA<br>
-**German International University, Berlin** &nbsp;·&nbsp; BSc semester abroad &nbsp;·&nbsp; 2023 to 2024 &nbsp;·&nbsp; 0.7/0.7 GPA
+🇩🇪 &nbsp;**University of Stuttgart** &nbsp;·&nbsp; Bachelor's thesis, Aerospace Engineering &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; Grade 1.0<br>
+🇪🇬 &nbsp;**German University in Cairo** &nbsp;·&nbsp; BSc Mechatronics, Robotics and Automation &nbsp;·&nbsp; 2022 to 2027 &nbsp;·&nbsp; Ranked 3rd by cumulative GPA<br>
+🇩🇪 &nbsp;**German International University, Berlin** &nbsp;·&nbsp; BSc semester abroad &nbsp;·&nbsp; 2023 to 2024 &nbsp;·&nbsp; 0.7/0.7 GPA
 
 🏆 &nbsp;**DAAD Scholarship**, administered by Ulm University, 2025<br>
 📜 &nbsp;Embedded Software Engineer certification, AMIT Learning, 2024
