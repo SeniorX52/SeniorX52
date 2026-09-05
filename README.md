@@ -42,7 +42,7 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 ## 💼 Experience
 
 <details open>
-<summary><b>Lucas-Nülle GmbH</b> &nbsp;·&nbsp; Working Student, Research & Development &nbsp;·&nbsp; Kerpen, Germany</summary>
+<summary><b>Lucas-Nülle GmbH</b> &nbsp;·&nbsp; Robotics & AI Working Student, R&D &nbsp;·&nbsp; Kerpen, Germany &nbsp;·&nbsp; 2026</summary>
 
 **Flight Simulation Environment for the PanelTrain Drone Training System**
 - Built a software in the loop simulation environment on the original ArduPilot firmware, keeping compatibility with the same autopilot and ground control infrastructure used in real flight operations
@@ -59,20 +59,56 @@ I build the layer where perception, control and hardware meet: ROS stacks, bare 
 </details>
 
 <details>
-<summary><b>University of Stuttgart, iFR</b> &nbsp;·&nbsp; Bachelor's thesis, Flight Robotics and Perception Group</summary>
+<summary><b>University of Stuttgart, iFR</b> &nbsp;·&nbsp; Bachelor's thesis, Flight Robotics and Perception Group &nbsp;·&nbsp; 2026</summary>
 
-- Physics informed neural motion predictor for an autonomous blimp, built on ROS 1 and Gazebo
+- Physics informed neural motion predictor for an autonomous airship, built on ROS 1 and Gazebo
 - Large scale simulation data pipeline across sampled vehicle and wind configurations
 - Real time deployment on embedded hardware, with GPU acceleration for training and evaluation
-- Heading to publication
+- Graded 1.0, heading to publication
 
 </details>
 
 <details>
-<summary><b>Freelance</b> &nbsp;·&nbsp; Upwork Top Rated, 100% job success</summary>
+<summary><b>Freelance</b> &nbsp;·&nbsp; Upwork Top Rated, 100% job success &nbsp;·&nbsp; 2025 to present</summary>
 
 - Robotics, computer vision, sensor fusion and embedded contracts for international clients
 - Work spanning GNSS/RTK field robots, telemetry pipelines, LiDAR and point cloud processing, and ML engineering
+
+</details>
+
+<details>
+<summary><b>Valeo</b> &nbsp;·&nbsp; Embedded Software Engineer, internship &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2025</summary>
+
+- Testing and validation of embedded systems, focused on real time software and hardware integration
+- Developed and executed test plans, and automated validation processes
+- Analysed system performance and debugged critical issues
+- Worked with cross functional teams on system reliability and compliance with safety standards
+
+</details>
+
+<details>
+<summary><b>University of Stuttgart, IAS</b> &nbsp;·&nbsp; DAAD funded exchange workshop &nbsp;·&nbsp; Stuttgart, Germany &nbsp;·&nbsp; 2024</summary>
+
+- Two week fully funded workshop on Cooperation of Heterogeneous Agents in Industrial Applications
+- Integrated three robotic platforms: TurtleBot 3, Unitree Go1 quadruped and Franka Emika Panda arm
+- Owned navigation, path planning and obstacle avoidance for the Unitree Go1
+- ROS, Gazebo and multi robot system integration, with 15 participants from GUC
+
+</details>
+
+<details>
+<summary><b>Multi-Robot Systems (MRS) Research Group</b> &nbsp;·&nbsp; Mechatronics Research Intern &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2024</summary>
+
+- Built a quadcopter on STM32 with PID control fusing gyroscope, accelerometer and barometer
+- Wireless control over UART, with a GUI for the RC controller
+
+</details>
+
+<details>
+<summary><b>German University in Cairo</b> &nbsp;·&nbsp; Junior Teaching Assistant &nbsp;·&nbsp; Cairo, Egypt &nbsp;·&nbsp; 2024</summary>
+
+- Ran lab sessions for CS3 students alongside the lead instructor
+- Supported students on coding tasks, debugging and course material, mainly in Java
 
 </details>
 
@@ -133,6 +169,17 @@ Also on GitHub: [Glove-For-Deaf](https://github.com/SeniorX52/Glove-For-Deaf), a
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Qt](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
+
+## 🎓 Education and awards
+
+**University of Stuttgart** &nbsp;·&nbsp; Bachelor's thesis, Aerospace Engineering &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; Grade 1.0<br>
+**German University in Cairo** &nbsp;·&nbsp; BSc Mechatronics, Robotics and Automation &nbsp;·&nbsp; 2022 to 2027 &nbsp;·&nbsp; Ranked 3rd by cumulative GPA<br>
+**German International University, Berlin** &nbsp;·&nbsp; BSc semester abroad &nbsp;·&nbsp; 2023 to 2024 &nbsp;·&nbsp; 0.7/0.7 GPA
+
+🏆 &nbsp;**DAAD Scholarship**, administered by Ulm University, 2025<br>
+📜 &nbsp;Embedded Software Engineer certification, AMIT Learning, 2024
 
 ---
 
