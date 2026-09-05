@@ -78,12 +78,10 @@ I build the layer where perception, control and hardware meet: ROS 2 stacks, bar
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SeniorX52&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorX52&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=SeniorX52&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=SeniorX52&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SeniorX52&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorX52&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
 
 </div>
 
