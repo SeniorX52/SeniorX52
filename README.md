@@ -15,26 +15,66 @@
 
 ## 🤖 About me
 
-I build the layer where perception, control and hardware meet: ROS 2 stacks, bare metal firmware, sensor fusion, and machine learning that has to run on an edge device rather than a server.
+I build the layer where perception, control and hardware meet: ROS stacks, bare metal firmware, sensor fusion, flight simulation, and machine learning that has to run on an edge device rather than a server.
 
-🎓 Final year **Mechatronics Engineering** at the German University in Cairo
-🛩️ Bachelor's thesis at the **Institute of Flight Mechanics and Controls (iFR), University of Stuttgart**, Flight Robotics and Perception Group
-💼 **Top Rated** freelance engineer, 100% job success
-📍 Cairo, Egypt
+🎓 &nbsp;Final year **Mechatronics Engineering** at the German University in Cairo<br>
+🛩️ &nbsp;Bachelor's thesis at the **Institute of Flight Mechanics and Controls (iFR), University of Stuttgart**, Flight Robotics and Perception Group<br>
+🏭 &nbsp;Working Student in **R&D at Lucas-Nülle GmbH**, drone simulation and robotics education<br>
+💼 &nbsp;**Top Rated** freelance engineer, 100% job success<br>
+📍 &nbsp;Cairo, Egypt
 
 ---
 
 ## 🛠️ What I work on
 
-🚁 **Aerial robotics** &nbsp;&nbsp; Flight controllers written from scratch on STM32, learned motion prediction for UAVs and lighter than air vehicles
+🚁 &nbsp;**Aerial robotics and simulation** &nbsp;&nbsp; Flight controllers written from scratch on STM32, ArduPilot software in the loop environments, learned motion prediction for UAVs and lighter than air vehicles
 
-🦾 **Robot software** &nbsp;&nbsp; ROS 2 Jazzy, Nav2, Gazebo, EKF sensor fusion, GNSS/RTK positioning
+🦾 &nbsp;**Robot software** &nbsp;&nbsp; ROS 2 (Jazzy, Humble) and ROS 1, MoveIt 2, Nav2, Gazebo, digital twins, EKF sensor fusion, GNSS/RTK positioning
 
-⚙️ **Embedded and hardware** &nbsp;&nbsp; STM32 and AVR bare metal, VHDL on FPGA, real time control loops, driver and board bring up
+⚙️ &nbsp;**Embedded and hardware** &nbsp;&nbsp; STM32 and AVR bare metal, VHDL on FPGA, real time control loops, driver and board bring up, Jetson platform commissioning
 
-🧠 **ML for robotics** &nbsp;&nbsp; Temporal models and deep learning deployed on Jetson and Raspberry Pi
+🧠 &nbsp;**ML and vision** &nbsp;&nbsp; Temporal models, GPU accelerated object detection, deep learning deployed on Jetson and Raspberry Pi
 
-> Recent work: a physics informed neural motion predictor for an autonomous blimp (bachelor's thesis at iFR Stuttgart, heading to publication), a quadcopter flight controller built from the ground up, robotics and AI prototyping on NVIDIA Jetson as a Werkstudent at Lucas-Nülle in Germany, and freelance robotics, computer vision and embedded contracts.
+🖥️ &nbsp;**Interfaces** &nbsp;&nbsp; PyQt5 control and teaching applications, Blockly visual programming, JavaFX, web map services
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>Lucas-Nülle GmbH</b> &nbsp;·&nbsp; Working Student, Research & Development &nbsp;·&nbsp; Kerpen, Germany</summary>
+
+**Flight Simulation Environment for the PanelTrain Drone Training System**
+- Built a software in the loop simulation environment on the original ArduPilot firmware, keeping compatibility with the same autopilot and ground control infrastructure used in real flight operations
+- Modelled and optimised quadcopter, fixed wing, flying wing and VTOL airframes for realistic flight behaviour across multiple simulators
+- Developed a georeferenced terrain pipeline with a local Web Map Service, so mission planning runs directly on simulated terrain
+- Designed a library of reproducible fault injection scenarios for systematic troubleshooting training, packaged for fully offline deployment
+
+**ROS 2 Robotics Training Environment on the Hiwonder JetArm**
+- Commissioned and optimised a Jetson Orin Nano robotic platform running ROS 2 Humble, resolving software and hardware integration issues
+- Built a bidirectional digital twin with MoveIt 2, linking simulation and physical hardware
+- Implemented GPU accelerated machine vision for object detection and autonomous sorting
+- Developed a PyQt5 control and teaching application with a Blockly interface for live robot programming
+
+</details>
+
+<details>
+<summary><b>University of Stuttgart, iFR</b> &nbsp;·&nbsp; Bachelor's thesis, Flight Robotics and Perception Group</summary>
+
+- Physics informed neural motion predictor for an autonomous blimp, built on ROS 1 and Gazebo
+- Large scale simulation data pipeline across sampled vehicle and wind configurations
+- Real time deployment on embedded hardware, with GPU acceleration for training and evaluation
+- Heading to publication
+
+</details>
+
+<details>
+<summary><b>Freelance</b> &nbsp;·&nbsp; Upwork Top Rated, 100% job success</summary>
+
+- Robotics, computer vision, sensor fusion and embedded contracts for international clients
+- Work spanning GNSS/RTK field robots, telemetry pipelines, LiDAR and point cloud processing, and ML engineering
+
+</details>
 
 ---
 
@@ -48,12 +88,20 @@ I build the layer where perception, control and hardware meet: ROS 2 stacks, bar
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Robotics and ML**
+**Robotics and simulation**
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS 1](https://img.shields.io/badge/ROS%201-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MoveIt 2](https://img.shields.io/badge/MoveIt%202-0A7CFF?style=for-the-badge&logoColor=white)
+![Nav2](https://img.shields.io/badge/Nav2-1B5E7E?style=for-the-badge&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-2E7D6F?style=for-the-badge&logoColor=white)
+
+**ML and vision**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Hardware**
@@ -70,6 +118,7 @@ I build the layer where perception, control and hardware meet: ROS 2 stacks, bar
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Qt](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
@@ -80,8 +129,10 @@ I build the layer where perception, control and hardware meet: ROS 2 stacks, bar
 
 <img src="https://streak-stats.demolab.com?user=SeniorX52&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SeniorX52&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorX52&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+<!-- Re-enable after self-hosting: replace YOUR-INSTANCE.vercel.app with your own deployment URL, then delete these comment markers.
+<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=SeniorX52&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=SeniorX52&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+-->
 
 </div>
 
